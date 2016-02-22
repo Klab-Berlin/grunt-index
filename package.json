@@ -1,7 +1,7 @@
 {
   "name": "grunt-index",
   "description": "Compile a index.html file with doT.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/Klab-Berlin/grunt-index",
   "author": {
     "name": "Frederik Rudeck",
